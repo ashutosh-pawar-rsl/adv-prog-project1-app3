@@ -1,4 +1,4 @@
-Project 1: Application 3
+# Project 1: Application 3
 
 # STL Parks & SLU Comfort Spaces - 3D Visualization
 
